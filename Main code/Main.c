@@ -1,9 +1,3 @@
-#include <stdio.h>
-#include <string.h>
-#include <math.h>
-
-#define DATABASE 10
-
 int main() {
 	
     // Data item
