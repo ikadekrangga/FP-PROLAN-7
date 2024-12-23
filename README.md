@@ -10,3 +10,11 @@ Anggota Kelompok :
 ## Studi Kasus
 - Aplikasi Pengelola Inventory Items Genshin Impact
 
+## Mater
+-Bubble Short
+-Jump Search
+-Function
+-File Ops
+-Recursive
+-Loop
+-String & Array
