@@ -10,7 +10,7 @@ Anggota Kelompok :
 ## Studi Kasus
 - Aplikasi Pengelola Inventory Items Genshin Impact
 
-## Mater
+## Materi
 - Bubble Short
 - Jump Search
 - Function
